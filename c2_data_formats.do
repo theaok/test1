@@ -5,7 +5,7 @@
 *Revised: spring 16
 *----------------------------
   
-* notes :  here could be notesc bluh 22
+* notes :  here could be notesc bluh hd
 
 *----------------------------
 
